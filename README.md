@@ -1,4 +1,5 @@
-### Hi there 👋
+### BetTD
+Hi, I code stuff, I guess.
 
 <!--
 **BetTD/BetTD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
